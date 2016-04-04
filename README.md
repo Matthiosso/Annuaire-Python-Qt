@@ -13,7 +13,7 @@ RAPILLY Louise    @louiserply
 BLANC Gilles
 
 ### About the program
-<b>My Catsome Painter</b> has been designed by Anaïs SEYVE and Matthieu CLEMENT for the 20th October 2015. This program allows you to paint on an image either free or with specifics shapes (rectangle, ellipse), to fill a zone, to register your work wherever you want in PNG, to print it and to open a PNG image...
+This <b>Phone Book</b> has been designed by Louise, Aurélien and Matthieu for the 25th March 2016. This program allows you to create your phone book, to fill it with contacts, to register them wherever you want in CSV and to open a CSV file previously registered.
 
 ### Elements used
 We used [JetBrains Pycharm IDE](https://www.jetbrains.com/pycharm/) to develop the program. Also, we used [pyQt5](http://pyqt.sourceforge.net/Docs/PyQt5/) with [Python 3.4](https://www.python.org/download/releases/3.4.3/).
